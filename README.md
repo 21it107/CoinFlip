@@ -2,6 +2,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+**Setup Project**
+1. Initialize Next.js Project:
+   npx create-next-app@latest coinflip-game
+   cd coinflip-game
+   
+2. Install Dependencies:
+   npm install @solana/web3.js @solana/wallet-adapter-react @solana/wallet-adapter-wallets @solana/wallet-adapter-react-ui tailwindcss@latest postcss@latest autoprefixer@latest
+
+3. Initialize Tailwind CSS:
+   npx tailwindcss init -p
+
+   
+
+
+
+
+
+
 First, run the development server:
 
 ```bash
